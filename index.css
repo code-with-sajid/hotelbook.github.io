@@ -1,0 +1,35 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin-top: -10%;
+    width: 60vw;
+    margin-left: 10%;
+    
+}
+.menu button{
+    margin-right: -9%;
+}
+.menu1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    margin-top: -18%;
+    height: 25vh;
+    background-color: white;
+    width: 75vw;
+    margin-left: 5%;
+}
+.icon{
+    display: flex;
+    justify-content:space-between;
+     
+}
+.list
+{
+
+list-style: none;
+}
